@@ -1,0 +1,22 @@
+{
+  "name": "asana-init",
+  "version": "1.0.0",
+  "description": "Asana connect Electron App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somsubhro/Randle-Patrick-McMurphy.git"
+  },
+  "keywords": [
+    "Asana"
+  ],
+  "author": "Som Chatterjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somsubhro/Randle-Patrick-McMurphy/issues"
+  },
+  "homepage": "https://github.com/somsubhro/Randle-Patrick-McMurphy#readme"
+}
